@@ -1,10 +1,9 @@
 var GHPATH = '/test-pwa';
 var APP_PREFIX = 'testpwa_';
-var VERSION = 'version_004';
+var VERSION = 'version_005';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
-  `${GHPATH}/img/icon.png`,
   `${GHPATH}/js/app.js`
 ]
 
