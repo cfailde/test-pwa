@@ -30,8 +30,10 @@
         "type": "image/png",
         "sizes": "180x180"
       },
+      {
         "src": "/test-pwa/img/favicon.svg",
         "type": "image/svg+xml",
         "sizes": "any"
+      }
   ]
 }
