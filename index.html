@@ -12,12 +12,17 @@
       body {
         margin: 0;
         font-family: Arial, sans-serif;
-	    font-size: 3em;
+	    font-size: 1em;
         height: 100vh;
         background-color: #552354;
         padding: 0;
         overflow-x: hidden; /* Hide horizontal scrollbar */
         overflow-y: scroll;
+      }
+      @media (max-width: 768px) {
+       body {
+         font-size:  2em;
+       }
       }
       header {
         position: fixed;
